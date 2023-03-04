@@ -1,3 +1,3 @@
-# daccord-dataset
+# DACCORD dataset
 
-DACCORD dataset for automatic detection of contradictions between sentences in French.
+This repository contains the files for the dataset DACCORD, a dataset for automatic detection of contradictions between sentences in French.
