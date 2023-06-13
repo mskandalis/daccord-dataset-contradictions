@@ -4,7 +4,8 @@ This repository contains the files for the dataset DACCORD, a dataset for automa
 
 # Citation
 
-```
+**BibTex**
+````BibTeX
 @inproceedings{Skandalis-Moot-Robillard:CORIA-TALN:2023,
     author = "Skandalis, Maximos and Moot, Richard and Robillard, Simon",
     title = "DACCORD : un jeu de donn\'ees pour la D\'etection Automatique d'\'enonC\'es COntRaDictoires en fran\c{c}ais",
@@ -19,4 +20,4 @@ This repository contains the files for the dataset DACCORD, a dataset for automa
     keywords = "D\'etection automatique de contradictions, Jeu de donn\'ees, Construction de corpus, T\^ache de paire de phrases, Classification binaire, Analyse s\'emantique de phrases, Fran\c{c}ais",
     url = "http://talnarchives.atala.org/CORIA-TALN/CORIA-TALN-2023/459882.pdf"
 }
-```
+````
