@@ -4,6 +4,14 @@ This repository contains the files for the dataset DACCORD, a dataset for automa
 
 It is also available on [huggingface.co](https://huggingface.co/datasets/maximoss/daccord-contradictions).
 
+# How to use in python
+
+```
+import pandas as pd
+dataset = pd.read_csv("./daccord_dataset.tsv", sep='\t')
+print(dataset)
+```
+
 # Citation
 
 **BibTex**
