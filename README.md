@@ -13,7 +13,7 @@ dataset = pd.read_csv("./daccord_dataset.tsv", sep='\t')
 print(dataset)
 ```
 
-# Citation
+# Cite
 
 **BibTex**
 ````BibTeX
