@@ -35,6 +35,10 @@ print(dataset)
 ````
 **ACL**
 
+Maximos Skandalis, Richard Moot, Christian Retoré, and Simon Robillard. 2024. *New datasets for automatic detection of textual entailment and of contradictions between sentences in French*. 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy. European Language Resources Association (ELRA) and International Committee on Computational Linguistics (ICCL).
+
+And
+
 Maximos Skandalis, Richard Moot, and Simon Robillard. 2023. [DACCORD : un jeu de données pour la Détection Automatique d’énonCés COntRaDictoires en français](https://aclanthology.org/2023.jeptalnrecital-long.22). In *Actes de CORIA-TALN 2023. Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN), volume 1 : travaux de recherche originaux -- articles longs*, pages 285–297, Paris, France. ATALA.
 
 # Acknowledgements
